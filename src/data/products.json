@@ -126,23 +126,7 @@
     "presentation": "1kg",
     "category": "Ingredientes",
     "image": "https://i.ibb.co/gbtgpDCs/Whats-App-Image-2025-05-01-at-7-48-27-PM-removebg-preview.png"
-  },
-  {
-    "id": 20,
-    "name": "Galletas mix stevia",
-    "price": 3.7,
-    "presentation": "",
-    "category": "Snacks",
-    "image": "https://i.ibb.co/W4tLRf41/Whats-App-Image-2025-05-01-at-7-48-31-PM-1-removebg-preview.png"
-  },
-  {
-    "id": 21,
-    "name": "Rosquitas light",
-    "price": 2.3,
-    "presentation": "",
-    "category": "Snacks",
-    "image": "https://i.ibb.co/1Yg8FnXm/Whats-App-Image-2025-05-01-at-7-48-31-PM-removebg-preview.png"
-  },
+  }, 
   {
     "id": 23,
     "name": "Galletas de Coco con Miel",
@@ -166,15 +150,7 @@
     "presentation": "",
     "category": "Snacks",
     "image": "https://i.ibb.co/3YNXGzGH/IMG-20250506-WA0002-removebg-preview.png"
-  },
-    {
-    "id": 27,
-    "name": "Granolitas light con stevia",
-    "price": 2.2,
-    "presentation": "30 g",
-    "category": "Snacks",
-    "image": "https://i.ibb.co/S4cy18Tb/Whats-App-Image-2025-05-01-at-7-48-29-PM-removebg-preview.png"
-  },
+  },   
   {
     "id": 28,
     "name": "Almendras bañadas con chocolate sin azúcar",
@@ -206,19 +182,11 @@
     "presentation": "",
     "category": "Dulces",
     "image": "https://i.ibb.co/jP38VthN/Whats-App-Image-2025-05-13-at-7-56-38-PM-removebg-preview.png"
-  },
-  {
-    "id": 33,
-    "name": "Chocolate zero",
-    "price": 3.3,
-    "presentation": "",
-    "category": "Dulces",
-    "image": "https://i.ibb.co/jkGxYRmq/Whats-App-Image-2025-05-01-at-7-48-29-PM-1-removebg-preview.png"
-  },
+  },  
   {
     "id": 34,
     "name": "Licor crema de cacao sin lactosa y stevia",
-    "price": 37.8,
+    "price": 32,
     "presentation": "500 ml",
     "category": "Dulces",
     "image": "https://i.ibb.co/0VKLK65c/Whats-App-Image-2025-05-13-at-9-40-08-AM-3-removebg-preview.png"
@@ -226,7 +194,7 @@
   {
     "id": 35,
     "name": "Licor crema de café sin lactosa y stevia",
-    "price": 37.8,
+    "price": 32,
     "presentation": "500 ml",
     "category": "Dulces",
     "image": "https://i.ibb.co/ZphYyJPs/Whats-App-Image-2025-05-13-at-9-40-08-AM-1-removebg-preview.png"
@@ -234,7 +202,7 @@
   {
     "id": 36,
     "name": "Licor crema de mocha sin lactosa y stevia",
-    "price": 37.8,
+    "price": 32,
     "presentation": "500 ml",
     "category": "Dulces",
     "image": "https://i.ibb.co/gF7PFRjD/Whats-App-Image-2025-05-13-at-9-40-07-AM-2-removebg-preview.png"
