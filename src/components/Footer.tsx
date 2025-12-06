@@ -76,11 +76,11 @@ const Footer: React.FC = () => {
           </div>
         </div>
       </div>
-      <p className="text-xs text-center text-green-700 mt-16 opacity-80"
+      <p className="text-lg text-center text-green-700 mt-16 opacity-80"
         data-aos="fade-up"
         data-aos-delay="200"
       >© 2025 VitaLight. Todos los derechos reservados.</p>
-      <p className="text-xs text-center text-green-700 mt-16 opacity-80">Sitio desarrollado por <a href="https://grobles.framer.website" target="_blank" rel="noopener noreferrer" className='underline text-black'>Grobles</a>.</p>
+      <p className="text-lg text-center text-green-700 mt-16 opacity-80">Sitio desarrollado por <a href="https://www.groblestudio.com/" rel="noopener noreferrer" className='underline text-black'>Grobles Studio</a>.</p>
     </footer>
   );
 };
